@@ -1,8 +1,7 @@
 # node3-weather-website
 A chat application build up using node js, html, css.
--- Used 
-    - express
-    - socket
+
+* Main npm modules : scoket, express
     
 To buildup client and server bidirectional connection , socket npm module is used here.
 
